@@ -65,8 +65,9 @@ function permutationSort(nums)
     return res.iter; 
 }
 
-
-var arr = [5,4,3,2,1];
+/*
+var arr = [5,4,3,2,1,0];
 var numTries = permutationSort(arr);
 console.log(numTries);
 console.log(arr);
+*/
